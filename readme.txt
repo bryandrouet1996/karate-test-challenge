@@ -1,10 +1,10 @@
 Instrucciones para ejecutar las pruebas:
 
 1. Clonar el repositorio:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/bryandrouet1996/karate-test-challenge
 
 2. Navegar al directorio del proyecto:
-   cd petstore-karate-test
+   cd karate-test-challenge
 
 3. Ejecutar las pruebas con Maven:
    mvn test
