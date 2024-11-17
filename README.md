@@ -26,12 +26,11 @@ Versiones utilizadas:
 
 -Dirigirse a la ubicacion java/petstore.TestRunner y pulsar el icono de iniciar pruebas esto arrancara inmediatamente con las pruebas y mostrara por terminal sus resultados.
 
--Para visualizar el reporte de karate hagamos click en el enlace que se muestra a continuacion una ejecutado las pruebas desde el runner
+-Para visualizar el reporte de karate una vez ejecutado nuestro TestRunner. 
+  Debemos dirigirnos a la siguiente linea:
   HTML report: (paste into browser to view) | Karate version: 1.5.0
-  petstore-karate-test/target/karate-reports/karate-summary.html
-  ===================================================================
+file:///C:/Users/Admin/Desktop/challenge%202/karate-test-challenge/target/karate-reports/karate-summary.html
 
 
-5. Información adicional
-   
-Nunguna
+Donde debemos hacer click en el enlace para visualizar nuestro reporte de las feature.
+
